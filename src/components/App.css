@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  margin: 2em;
+}
+
+form > div {
+  margin-top: 2em;
+}
